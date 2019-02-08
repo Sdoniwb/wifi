@@ -1,0 +1,2 @@
+# wifi
+document uimax wifi
